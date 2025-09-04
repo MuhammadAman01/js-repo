@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+ # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
@@ -19,7 +19,7 @@ Other Style Guides
   - [Ruby](https://github.com/airbnb/ruby)
 
 ## Table of Contents
-
+nnn
   1. [Types](#types)
   1. [References](#references)
   1. [Objects](#objects)
